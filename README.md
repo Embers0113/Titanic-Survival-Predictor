@@ -26,7 +26,7 @@ The app lets users create a passenger profile and receive an **estimated surviva
 
 ### 🚢 Try the application
 
-[**Launch the Interactive UI →**](https://embers7928.streamlit.app/)
+[**Launch the Interactive UI →**](https://embers0113.streamlit.app/)
 
 Explore the trained models through the interactive Streamlit application, create your own passenger profile, and view the estimated survival probability.
 
